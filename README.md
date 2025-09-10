@@ -1,7 +1,8 @@
 ## Hi, I'm Shafi
 
 Computer Science Student<br/>
-web designer 
+web designer <br/>
+graphic designer
 
 
 ## 🌐 Socials:
