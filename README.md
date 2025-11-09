@@ -1,6 +1,6 @@
 ## Wsup !
 
-Student tryna learn explore<br/>
+Student tryna explore<br/>
 web designer <br/>
 graphic designer
 
