@@ -1,10 +1,8 @@
 ## Wsup !
 
-just a guy who likes building stuff :)
-
-web things, weird experiments & occasional open source.
-
-if it works, it's a feature.
+building things nobody asked for :)<br>
+turning random ideas into actual projects.<br>
+occasionally touching grass.
 
 
 
