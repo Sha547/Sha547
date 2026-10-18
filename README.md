@@ -1,8 +1,10 @@
 ## Wsup !
 
-Student tryna explore<br/>
-web designer <br/>
-graphic designer
+just a guy who likes building stuff :)
+
+web things, weird experiments & occasional open source.
+
+if it works, it's a feature.
 
 
 
